@@ -1,0 +1,14 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I/usr/include/luajit-2.1",
+            "-o",
+            "main",
+            "src/main.c"
+        ],
+        "directory": "/workspace/klb/p1",
+        "file": "src/main.c"
+    }
+]
